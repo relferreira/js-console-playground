@@ -1,0 +1,20 @@
+{
+  "name": "js-console-playground",
+  "version": "0.0.1",
+  "description": "A JS Console",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": ["JS Console", "DevTools", "Playground", "Electron"],
+  "author": "relferreira",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "babel-preset-env": "^1.6.1"
+  }
+}
