@@ -4,6 +4,8 @@ Mac app with a JavaScript console. Similar to Chrome DevTools, but available eve
 
 ## Roadmap
 
+* Command history
+* Result details (arrays size, object details)
 * JS editor for code highlights
 * Copy shortcut
 * Themes: light/dark
